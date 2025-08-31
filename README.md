@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fager Hussein  
 
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius:50%" align="right">  
+<img src="https://avatars.githubusercontent.com/u/120511723?v=4" width="150" style="border-radius:50%" align="right">  
 
 🎓 **Software Engineering Student @ MISR University for Science and Technology**  
 💻 **Mobile Developer | Flutter & Kotlin Enthusiast**  

@@ -18,6 +18,7 @@
 
 ## 🚀 Featured Projects
 - 🛒 [My Shopping App](https://github.com/fagerhu03/My_Shopping) – Complete shopping app with cart & state management  
+- 🎥 [Movie App](https://github.com/fagerhu03/movie_app) – Movie App that use the YTS api and exploring  
 - 🌱 [AgriHope – NASA Space Apps Cairo 2024](https://github.com/fagerhu03/AgriHope_NasaSpaceAppsCairo-24-main) – Farmer-focused IoT & AI project  
 - 💬 [WhatsApp UI Flutter](https://github.com/fagerhu03/whatsapp_ui_flutter) – Pixel-perfect WhatsApp clone in Flutter  
 - 📘 [Islami App](https://github.com/fagerhu03/islami) – Islamic app with Quran, prayer times & azkar  
